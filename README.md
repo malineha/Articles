@@ -1,5 +1,5 @@
 # Articles
-This repository is filled with articles I have written 
+This repository is filled with articles I have contributed on GeeksforGeeks
 
 ### Top 10 Technology Trends That You Can Learn in 2020
 https://www.geeksforgeeks.org/top-10-technology-trends-that-you-can-learn-in-2020/
